@@ -1,6 +1,6 @@
 ---
-title: "Capstone: [Your Capstone Title]"
-subtitle: "A one-sentence hook: what you built and who it helps."
+title: "Capstone: Willamette Applicant Trajectory"
+subtitle: "Predicting Student College Enrollment Destination"
 date: 2026-07-27
 image: projects/capstone/featured.svg
 categories: [capstone, machine-learning, R]
@@ -19,7 +19,7 @@ should read this one. Replace every bracketed placeholder, then delete this note
 
 **Role:** \[e.g. I led the data pipeline and validation.\]
 **Team:** \[solo, or name + link teammates.\]
-**Repo:** [github.com/your_github_username/your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
+**Repo:** [github.com/Data-Science-Capstone-Project-2026/Capstone2026-Applicant-Trajectory](https://github.com/Data-Science-Capstone-Project-2026/Capstone2026-Applicant-Trajectory)
 
 ## The question
 
