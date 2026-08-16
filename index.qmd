@@ -21,12 +21,12 @@ about:
       href: resume.qmd
 ---
 
-I see myself as a bridge between data and people. The ability to simplify and translate technical concepts into meaningful insights for people across industries is what makes me most passionate about data science.
+I see myself as a bridge between data and people. 
 Right now I am finishing my M.S. in Data Science at **Willamette University**,
 where my capstone [predicts an applicant's likely enrollment destination category](capstone.qmd) for
 the Willamette University Admissions and Enrollment Management Teams.
 
-I enjoy streamlining workflows, optimizing databases, and applying statistical models to real-world problems. Throughout it all, I thrive in collaborative environments where I can apply my technical skills to connect with business stakeholders and help them make data-driven decisions.
+I enjoy streamlining workflows, optimizing databases, applying statistical models to real-world problems, and making data interpretable through visualizations. Throughout it all, I thrive in collaborative environments where I can apply my technical skills to connect with business stakeholders and help them make data-driven decisions.
 
 **Currently looking for** Business Intelligence Analyst, Data Analyst, Data Scientist, and Data Engineer roles
 starting January, 2027. [Get in touch](about.qmd) or grab my
@@ -40,7 +40,8 @@ starting January, 2027. [Get in touch](about.qmd) or grab my
 ### 🎓 Education
 M.S. Data Science
 Willamette University, 2026
----
+----
+
 B.S. Data Science, Economics Minor
 Willamette University, 2026
 :::
