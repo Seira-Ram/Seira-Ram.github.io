@@ -20,6 +20,8 @@ At Willamette my focus has been \[your emphasis: forecasting, causal inference,
 NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
 together.
 
+My special industry interests are in education, entertainment, and aviation. I am also fluent in Japanese and have a strong interest in global companies that prioritize diversity in thought.
+
 ### Beyond the terminal
 
 - 🌲 \[Something human — a hobby, a place, a cause.\]
