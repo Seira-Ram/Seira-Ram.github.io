@@ -12,11 +12,14 @@ toc: true
 > We integrated three years of Willamette applicant data joined with National Student Clearinghouse enrollment data to predict an admitted but non-enrolled student’s enrollment destination category based on their application characteristics. Knowing what is most likely to influence a student’s decicision helps the Admissions and Enrollment Management teams create more targeted recruitment and yield strategies.
 
 **Role:** Owner Product Lead
+
 **Team:** [Courtney St. Onge](https://courtneysto.github.io)
+
 **Capstone Website** [Willamette Applicant Trajectory](https://data-science-capstone-project-2026.github.io/)
+
 **Public Repo:** [Github](https://github.com/Data-Science-Capstone-Project-2026/Public_Repository)
 
-## The question
+## The problem
 
 Currently, the Admissions office lacks a data-driven framework for segmenting admitted applicants by their predicted matriculation destination, which means that recruitment and yield strategies must be applied broadly rather than targeted to what differentiates Willamette from the other schools an applicant may be looking at. Understanding which type of institution a student is likely to choose would allow the team to tailor materials, financial aid messaging, and communications to what is most likely to influence a student’s decision.
 
@@ -67,29 +70,39 @@ We analyzed two destination groupings as part of an iterative refinement process
 
 This project started with an exploratory stage to construct and validate features and applicant groupings, followed by a supervised classification stage to predict enrollment destination.
 
-Exploratory data analysis was conducted in R and done across the different feature groupings. Applicant attributes were then transformed into model-ready features in Python(feature engineering).
+**Exploratory data analysis** was conducted in R and done across the different feature groupings. Applicant attributes were then transformed into model-ready features in Python(feature engineering).
 
-Clustering was applied to identify natural groupings in enrollment destination patterns. To assess whether the cluster membership aligned meaningfully with the enrollment destination categories, a chi-square test of independence was run with Cramer’s V used to quantify the strength of the association. 
+**Clustering** was applied to identify natural groupings in enrollment destination patterns. To assess whether the cluster membership aligned meaningfully with the enrollment destination categories, a **chi-square test of independence** was run with Cramer’s V used to quantify the strength of the association. 
 
-Three classification approaches were compared for the predictive task: Multinomial Logistic Regression (MLR) as an interpretable baseline, Support Vector Machines (SVM) as an alternative classifier, and XGBoost, selected for its native handling of missing values. The strongest performing model was then focused on for hyperparameter tuning and feature identification.
+Three classification approaches were compared for the predictive task: **Multinomial Logistic Regression (MLR)** as an interpretable baseline, **Support Vector Machines (SVM)** as an alternative classifier, and **XGBoost**, selected for its native handling of missing values. The strongest performing model was then focused on for hyperparameter tuning and feature identification.
 
 ## Findings
 
-Lead with your best figure or your architecture diagram.
+The XGBoost model found that overall, **region of origin was the single strongest predictor for every destination category.** After region, the next most influential factors varied by destination:
 
-![Replace with your key result or system diagram.](projects/capstone/featured.svg){fig-alt="Placeholder capstone figure" width="90%"}
+| Destination Category | 2nd Most Influential | 3rd Most Influential | 4th Most Influential |
+|---|---|---|---|
+| NW5 | SAT/ACT Superscore | First-Generation Status | Days to Application Submission |
+| Local Private | Student Athlete Status | Weighted GPA | Curriculum Rating |
+| Three Large Public | Student Athlete Status | EFC/SAI (Financial Need) | — |
+| Local Public | Days to Application Submission | Admission Plan | — |
 
-State the finding in plain language, then the caveat. Sparse and true beats
-full and shaky.
+The regions that impacted the classification in each category the most were widely varied across categories. For Northwest 5 schools, applicants from California, states other than Washington and Oregon, and the Bellingham area of Washington are more likely to attend. 
+
+![Feature Importance for Northwest 5 School Destination.](/projects/capstone/nw5_shap_beeswarm.png)
+
+![Impact of Applicant Region of Origin for Northwest 5 School Destination.](/projects/capstone/nw5_shap_cat_plot.png)
+
+No model can say with certainty where a specific student will enroll. But across every approach we tried, a few clear and consistent patterns emerged about *what* tends to influence a student's choice. Using an applicant's region of origin, overall academic profile, and any financial information, one can gain a general understanding of where a student might enroll.
+
+Additional features and destination categories are explored in the full write-up.
 
 ## The full write-up
 
-```markdown
 [Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
 
 <iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe>
-```
 
 ## Dig deeper
 

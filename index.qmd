@@ -39,17 +39,16 @@ starting January, 2027. [Get in touch](about.qmd) or grab my
 ::: {.g-col-12 .g-col-md-4}
 ### 🎓 Education
 M.S. Data Science
-Willamette University, 2026
-----
-
+Willamette University, 2026<br>
+--------- <br>
 B.S. Data Science, Economics Minor
 Willamette University, 2026
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
-R · Python · SQL ・
-Shiny ・ Excel ・ Git 
+R · Python · SQL ·
+Shiny · Excel · Git ·
 Japanese Fluency
 :::
 
