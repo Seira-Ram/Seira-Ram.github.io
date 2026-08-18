@@ -9,29 +9,21 @@ about:
 
 ## Hi, I'm Seira 👋
 
-The home page is the ten-second version. This is the longer story — write it in
-your own voice.
+Raised in both Japan and the U.S., I have learned firsthand how to adapt across cultures and communicate in ways that bring people together. Growing up, I enjoyed math because the foundation didn't change as languages did and would frequently do sudokus for relaxation. Later on, Data Science gave me the chance to combine my love for problem-solving with my strength in communication and organization. My experiences range from leading operations and improving processes in education and sales, data analyses and development of dashboards in environmental science and sports fields, and even building efficient systems as co-president of a dance company. Across all these roles, I’ve been recognized as reliable, adaptable, and a strong collaborator who keeps teams moving forward.
 
-I came to data science from \[your path: a major, a job, a question that would
-not leave you alone\]. What keeps me here is \[the part of the work you genuinely
-enjoy — the modeling, the wrangling, the moment a chart makes something click\].
-
-At Willamette my focus has been \[your emphasis: forecasting, causal inference,
-NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
-together.
-The ability to simplify and translate technical concepts into meaningful insights for people across industries is what makes me most passionate about data science.
+What makes me most passionate about Data Science is being able to simplify and translate technical concepts into meaningful insights for people across industries. I see myself as a bridge between data and people, combining my mathematical/statistical skills and adaptability/communication skills. At Willamette my focus has been on data analysis and visualization. My [capstone](capstone.qmd) is where that comes together.
 
 My special industry interests are in education, entertainment, and aviation. I am also fluent in Japanese and have a strong interest in global companies that prioritize diversity in thought.
 
 ### Beyond the terminal
 
-- 🌲 \[Something human — a hobby, a place, a cause.\]
-- 📚 \[Currently reading / learning / building.\]
-- 🎯 \[What you want to be doing in two years.\]
+- 💃 I love to dance, especially hiphop and hula! 
+- 📚 I read the TLDR newsletter to keep up with the everchanging world of data.
+- 🎯 In two years, I hope to be working amongst curious and passionate professionals, and finding new strategies to communicate effectively to business stakeholders.
 
 ### Get in touch
 
-I'm happy to talk about \[data work, collaborations, roles\].
+I'm happy to talk about data science opportunities or collaborations, or to merely chat!
 
 - ✉️ [seira.ramchandani@gmail.com](mailto:seira.ramchandani@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/seira-ramchandani/)
