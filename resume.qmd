@@ -11,7 +11,7 @@ toc: true
 
 ## Education
 
-**M.S. Data Science** — Willamette University, Salem, OR *( Aug 2026)*
+**M.S. Data Science** — Willamette University, Salem, OR *( Aug 2026)* <br>
 **B.S. Data Science, Economics Minor** — Willamette University, Salem, OR *(May 2026)*
 
 ## Skills
@@ -62,7 +62,7 @@ toc: true
 
 - Developed end-to-end data pipelines in R to collect, clean, and structure Willamette Men’s soccer match data, enabling high-resolution analysis of team and opponent performance trends for the coaching staff. I led the creation of a Shiny app to visualize and explore the data.
 
-**Temporal Trends in Forest Cover in the Nyungwe Nature Reserve** - see the [Projects page](projects.qmd) for full details.
+**Forestry Data Science Research** - see the [Projects page](projects.qmd) for full details.
 
 - Collaborated with the US Forest Service and advisor to analyze temporal trends and environmental stressors impacting the Nyungwe Nature Reserve, Rwanda.
 

@@ -22,7 +22,7 @@ about:
 ---
 
 I see myself as a bridge between data and people. 
-Right now I am finishing my M.S. in Data Science at **Willamette University**,
+I recently completed my M.S. in Data Science at **Willamette University**,
 where my capstone [predicts an applicant's likely enrollment destination category](capstone.qmd) for
 the Willamette University Admissions and Enrollment Management Teams.
 
@@ -54,9 +54,7 @@ Grafana · Tableau
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
-Salem, OR (Aug 2026)
-
-Relocating to Northern VA in September 2026
+Falls Church,VA (September 2026)
 :::
 
 :::

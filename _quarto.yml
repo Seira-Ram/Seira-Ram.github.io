@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "projects/**/*.qmd"
+    - "!projects/**/*.ipynb"
 
 # Freeze computational output so GitHub Actions does NOT need R or Python.
 # Run `quarto render` locally after changing any code chunk, then commit the

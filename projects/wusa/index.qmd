@@ -1,0 +1,24 @@
+---
+title: "Willamette University Soccer Analytics (WUSA)"
+description: "Analyzing men's soccer performance data at Willamette University to improve team strategies and player development."
+date: 2025-10-13
+image: wusa.avif
+categories: [research, R, ShinyApp, visualization]
+---
+
+## What it is
+
+Working with a team of data science soccer students and my advisor, this research project aimed to analyze two seasons of Willamette men's soccer match data to provide coaching staff data-driven insights for tactical adjustments and season tracking.
+
+## What I did
+
+- Served as the primary data analysis and integration lead, developing end-to-end R pipelines to collect, clean, and structure match data for team and opponent-level performance analysis
+- Designed and deployed an interactive Shiny dashboard integrating season-long and opponent-specific analytics, giving coaching staff real-time access to tactical insights throughout the season
+
+## Outputs
+
+- 📊 [Dashboard](https://nmhybc-haydn-duncan.shinyapps.io/Willamette-Mens-Soccer/)
+- 🔗 [Article](https://news.willamette.edu/library/2026/01/soccer-data-dashboard.html)
+
+<iframe src="https://nmhybc-haydn-duncan.shinyapps.io/Willamette-Mens-Soccer/" width="100%" height="800px"
+  style="border: 1px solid #ddd;"></iframe>
