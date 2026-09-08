@@ -12,7 +12,9 @@ Using publicly available Airbnb data from Salem’s listings and reviews, this p
 
 ## What I did
 
-- 
+- Conducted exploratory data analysis on 280 Salem Airbnb listings and 21,000+ guest reviews spanning 2011–2025, uncovering a fivefold market growth, seasonal demand patterns, and spatial pricing trends across Salem neighborhoods
+- Applied VADER sentiment analysis and TF-IDF keyword extraction to guest reviews, identifying that top-rated listings are characterized by experiential language and personal touches, while lower-rated listings surface physical space complaints
+- Translated model findings into dual-lens business recommendations, advising hosts on high-impact amenities and differentiation strategies while guiding guests on how to book smarter in a market where price is a poor proxy for experience quality
 
 ## Links
 [Download the code (Jupyter Notebook)](AirBnBFinalProject.ipynb){.btn .btn-primary}

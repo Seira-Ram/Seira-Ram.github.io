@@ -1,0 +1,24 @@
+---
+title: "Temporal Trends in Forest Cover in the Nyungwe Nature Reserve"
+description: "Analyzing forestry and conservation efforts in Nyungwe National Park using data-driven approaches."
+date: 2024-05-23
+image: nyungwe.jpg
+categories: [research,R, ArcGIS]
+---
+
+## What it is
+
+A geospatial data science project examining how environmental stressors (climate change, human clearing, anthropogenic activity) have impacted forest cover in Rwanda's Nyungwe Nature Reserve, a 1,013 km² rainforest reserve experiencing regional warming of roughly a third of a degree per decade.
+
+## What I did
+
+- Collaborated with the US Forest Service and a faculty advisor to analyze temporal trends and environmental stressors affecting forest cover in the reserve
+- Used ArcGIS Pro and Google Earth Engine to develop training points from August 2019 and July 2022 satellite imagery for land cover classification
+- Built a MaxEnt species/habitat distribution model to support the project's initial analysis and reporting
+
+## Links
+
+[Download the Monitoring Design Draft (PDF)](Nyungwe_draft.pdf){.btn .btn-primary}
+
+<iframe src="Nyungwe_draft.pdf" width="100%" height="800px"
+  style="border: 1px solid #ddd;"></iframe>
