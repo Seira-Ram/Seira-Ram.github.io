@@ -3,7 +3,7 @@ title: "Temporal Trends in Forest Cover in the Nyungwe Nature Reserve"
 description: "Analyzing forestry and conservation efforts in Nyungwe National Park using data-driven approaches."
 date: 2024-05-23
 image: nyungwe.jpg
-categories: [research,R, ArcGIS]
+categories: [Research,R, ArcGIS]
 ---
 
 ## What it is

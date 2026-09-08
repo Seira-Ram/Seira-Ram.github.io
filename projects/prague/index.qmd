@@ -3,7 +3,7 @@ title: "Prague Metro System"
 description: "Built an end-to-end data pipeline integrating five heterogeneous data sources into a dimensional warehouse, delivering live Grafana dashboards that answered real transit business questions and informed strategic decision-making for the City of Prague."
 date: 2026-08-05
 image: prague.jpg
-categories: [course-work,data-engineering, reporting, SQL]
+categories: [Course-work, Data Engineering, Reporting, SQL]
 ---
 
 ## What it is

@@ -3,7 +3,7 @@ title: "A Point We Can't Pass(e) - Reimagining UDA's Judging Rubric"
 description: "Reimagining the judging rubric for UDA Dance Competitions using data visualization assessing the history and cultural significances of dances from around the world."
 date: 2026-04-23
 image: uda.png
-categories: [course-work, R, visualization]
+categories: [Course-work, R, Visualization]
 ---
 
 ## What it is

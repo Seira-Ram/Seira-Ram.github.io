@@ -3,7 +3,7 @@ title: "Willamette University Soccer Analytics (WUSA)"
 description: "Analyzing men's soccer performance data at Willamette University to improve team strategies and player development."
 date: 2025-10-13
 image: wusa.avif
-categories: [research, R, ShinyApp, visualization]
+categories: [Research, R, ShinyApp, Visualization]
 ---
 
 ## What it is

@@ -38,23 +38,22 @@ starting January, 2027. [Get in touch](about.qmd) or grab my
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🎓 Education
-M.S. Data Science
-Willamette University, 2026<br>
---------- <br>
-B.S. Data Science, Economics Minor
+**M.S. Data Science**<br>
+Willamette University, 2026
+
+**B.S. Data Science**, Economics Minor<br>
 Willamette University, 2026
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
-R · Python · SQL ·
-Shiny · Excel · Git ·
-Grafana · Tableau 
+[R]{.skill-badge} [Python]{.skill-badge} [SQL]{.skill-badge} [Shiny]{.skill-badge} [Excel]{.skill-badge} [Git]{.skill-badge} [Grafana]{.skill-badge} [Tableau]{.skill-badge}
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
-Falls Church,VA (September 2026)
+Falls Church, VA<br>
+<span class="text-muted">starting September 2026</span>
 :::
 
 :::

@@ -3,7 +3,7 @@ title: "Salem Stays: What Drives Airbnb Ratings and Pricing in Oregon’s Capita
 description: "Analyzing Airbnb data in Salem, Oregon to understand factors that influence guest ratings and pricing strategies."
 date: 2026-04-20
 image: airbnb.png
-categories: [course-work, python, machine-learning]
+categories: [Course-work, Python, Machine Learning]
 ---
 
 ## What it is

@@ -3,7 +3,7 @@ title: "Airline Delays: Operational Weaknesses and Financial Patterns in U.S. Ai
 description: "Analyzing U.S. airline delay data and stock prices to explore the relationship between operational performance and financial outcomes."
 date: 2025-12-3
 image: plane.jpg
-categories: [course-work, Python, visualization]
+categories: [Course-work, Python, Visualization]
 ---
 
 ## What it is
